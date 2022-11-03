@@ -2,8 +2,8 @@
 {
     "id": 180517412,
     "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0000.flac.wav",
-      "text":"She was 4 yours older than I to be sure and had seen more of the world.  But she was a boy and I was a girl and I resented her protecting manner"
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/Audio_The_LJ_Speech_Dataset/LJ001-0001.wav",
+      "text":"Printing in the only presence sense in which we are concerned, differs from most if not all the arts and crafts, represented in the exhibition "
     },
     "annotations": [],
     "predictions": []
@@ -11,8 +11,8 @@
 {
     "id": 180517412,
     "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0016.flac.wav",
-      "text":"A snake of his size and fighting trim would be more than Kneeboy could handle"
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/Audio_The_LJ_Speech_Dataset/LJ001-0002.wav",
+      "text":"In being comparatively modern"
     },
     "annotations": [],
     "predictions": []
@@ -20,8 +20,8 @@
 {
     "id": 180517412,
     "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0015.flac.wav",
-      "text":"Auto winked at me"
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/Audio_The_LJ_Speech_Dataset/LJ001-0003.wav",
+      "text":"For although the chinese took impressions, from wood blocks engraved in reliefs for centuries before the woodcutters of the netherlands by a similar process"
     },
     "annotations": [],
     "predictions": []
@@ -29,8 +29,8 @@
 {
     "id": 180517412,
     "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0014.flac.wav",
-      "text":"He could stand right up and talk to you. He could. Did he fight hard"
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/Audio_The_LJ_Speech_Dataset/LJ001-0004.wav",
+      "text":"produced the block books which was the immediate predecessors of the true printed book"
     },
     "annotations": [],
     "predictions": []
@@ -38,8 +38,8 @@
 {
     "id": 180517412,
     "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0013.flac.wav",
-      "text":"Otofuks was the first one we met"
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/Audio_The_LJ_Speech_Dataset/LJ001-0005.wav",
+      "text":"the invention of the movable metal printed letters in the middle of the 15th century, may justly be considered as the invention of the art of printing.  "
     },
     "annotations": [],
     "predictions": []
@@ -47,8 +47,8 @@
 {
     "id": 180517412,
     "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0012.flac.wav",
-      "text":"I followed with a spade over my shoulder, dragging my snake"
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/Audio_The_LJ_Speech_Dataset/LJ001-0006.wav",
+      "text":"And it is worth mentioning in passing, that as an example of fine typography "
     },
     "annotations": [],
     "predictions": []
@@ -56,8 +56,8 @@
 {
     "id": 180517412,
     "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0011.flac.wav",
-      "text":"We decided that Antonia should ride Dawid home and I should walk"
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/Audio_The_LJ_Speech_Dataset/LJ001-0007.wav",
+      "text":"The earliest book printed with movable types, the Guttenberg or 42 line Bible, of about 1455"
     },
     "annotations": [],
     "predictions": []
@@ -65,8 +65,8 @@
 {
     "id": 180517412,
     "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0009.flac.wav",
-      "text":"Look Tony, that is poison I said"
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/Audio_The_LJ_Speech_Dataset/LJ001-0008.wav",
+      "text":"has never been surpassed"
     },
     "annotations": [],
     "predictions": []
@@ -74,26 +74,8 @@
 {
     "id": 180517412,
     "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0007.flac.wav",
-      "text":"I never knew you were so brave Jim.  She went on comforting Lee"
-    },
-    "annotations": [],
-    "predictions": []
-},
-{
-    "id": 180517412,
-    "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0006.flac.wav",
-      "text":"I know I'm just awful Jim.  I'm so scared"
-    },
-    "annotations": [],
-    "predictions": []
-},
-{
-    "id": 180517412,
-    "data": {
-      "audio_url": "https://htx-misc.s3.amazonaws.com/libri/dev-clean.2035.147960.2035-147960-0004.flac.wav",
-      "text":"It was on one of these gravel beds that I met my adventure"
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/Audio_The_LJ_Speech_Dataset/LJ001-0009.wav",
+      "text":"Printing then for our purpose may be considered as the art of making books by means of movable type"
     },
     "annotations": [],
     "predictions": []
