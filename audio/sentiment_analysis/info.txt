@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/imsparsh/audio-speech-sentiment
+July 19, 2022
+CC0: Public Domain
