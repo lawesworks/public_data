@@ -1,0 +1,105 @@
+{
+    "id": 5811006,
+    "data": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-01.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-02.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-03.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-04.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-05.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-06.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-07.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-08.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-09.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-10.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-11.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-12.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-13.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-14.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-15.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-16.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-17.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-18.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-19.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-20.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-21.jpg"
+        }
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-22.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-23.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-24.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-25.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-26.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-27.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-28.jpg"
+        }
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-29.jpg"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lawesworks/public_data/main/pdf/pdf_images/file-example_PDF_1MB-30.jpg"
+        }
+      ],
+      "detail":{
+        "Entity": "0F447A97C9724549897B67FB7BE3485E",
+        "Policy": "2C766ED6DB864E8AB2826C232A862763",
+        "Location": "NYC, NY",
+        "Coverage": "Full Coverage"
+      }
+    },
+    "annotations": [],
+    "predictions": []
+  }
