@@ -1,0 +1,128 @@
+[
+{
+    "id": 91051741,
+    "data": {
+      "text":"I like to leave work after my eight-hour tea-break.",
+      "detail":{
+        "Person": "Wife",
+        "Context": "Arguing",
+        "Location": "Office",
+        "Coverage": "Morning"
+      }
+    },
+    "annotations": [],
+    "predictions": []
+},
+{
+    "id": 18051741,
+    "data": {
+      "text":"They say people remember important moments in their life well, yet no one even remembers their own birth.",
+      "detail":{
+        "Person": "Husband",
+        "Context": "Debating",
+        "Location": "School",
+        "Coverage": "Evening"
+      }
+    },
+    "annotations": [],
+    "predictions": []
+},
+{
+    "id": 91805741,
+    "data": {
+      "text":"They broke the wrong parts of me. They broke my wings and forgot I had claws.”",
+      "detail":{
+        "Person": "Colleague",
+        "Context": "Small Talk at Bar",
+        "Location": "Cafeteria",
+        "Time": "Morning"
+      }
+    },
+    "annotations": [],
+    "predictions": []
+},
+{
+    "id": 91851741,
+    "data": {
+      "text":"One word frees us of all the weight and pain in life. That word is love",
+      "detail":{
+        "Person": "Wife",
+        "Context": "Small Talk at Bar",
+        "Location": "Home",
+        "Coverage": "Afternoon"
+      }
+    },
+    "annotations": [],
+    "predictions": []
+},
+{
+    "id": 91805741,
+    "data": {
+      "text":"Now I need to ponder my existence and ask myself if I am truly real",
+      "detail":{
+        "Person": "Husband",
+        "Context": "Arguing",
+        "Location": "Beach",
+        "Coverage": "Evening"
+      }
+    },
+    "annotations": [],
+    "predictions": []
+},
+{
+  "id": 910517412,
+  "data": {
+    "text":"I guess that is what saying good-bye is always like -like jumping off an edge. The worst part is making the choice to do it. Once you are in the air, there is nothing you can do but let go.",
+    "detail":{
+      "Person": "Spouse",
+      "Context": "Arguing",
+      "Location": "Home",
+      "Coverage": "Night"
+    }
+  },
+  "annotations": [],
+  "predictions": []
+},
+{
+    "id": 910517412,
+    "data": {
+      "text":"To love deeply in one direction makes us more loving in all others.",
+      "detail":{
+        "Person": "Mom",
+        "Context": "Debating",
+        "Location": "Reunion",
+        "Coverage": "Night"
+      }
+    },
+    "annotations": [],
+    "predictions": []
+},
+{
+    "id": 918057412,
+    "data": {
+      "text":"Whenever he saw a red flag warning at the beach he grabbed his surfboard.",
+      "detail":{
+        "Person": "Husband",
+        "Context": "Debating",
+        "Location": "NYC, NY",
+        "Coverage": "Night"
+      }
+    },
+    "annotations": [],
+    "predictions": []
+},
+{
+    "id": 18051741,
+    "data": {
+      "text":"He had a hidden stash underneath the floorboards in the back room of the house",
+      "detail":{
+        "Person": "Father",
+        "Context": "Arguing",
+        "Location": "NYC, NY",
+        "Coverage": "Morning"
+      }
+    },
+    "annotations": [],
+    "predictions": []
+}
+]
