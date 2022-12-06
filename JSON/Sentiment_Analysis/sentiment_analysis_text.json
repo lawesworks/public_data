@@ -2,6 +2,7 @@
 {
     "id": 91051741,
     "data": {
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/audio/sentiment_analysis/10.wav",
       "text":"I like to leave work after my eight-hour tea-break.",
       "detail":{
         "Person": "Wife",
@@ -16,6 +17,7 @@
 {
     "id": 18051741,
     "data": {
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/audio/sentiment_analysis/101.wav",
       "text":"They say people remember important moments in their life well, yet no one even remembers their own birth.",
       "detail":{
         "Person": "Husband",
@@ -30,6 +32,7 @@
 {
     "id": 91805741,
     "data": {
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/audio/sentiment_analysis/102.wav",
       "text":"They broke the wrong parts of me. They broke my wings and forgot I had claws.”",
       "detail":{
         "Person": "Colleague",
@@ -44,6 +47,7 @@
 {
     "id": 91851741,
     "data": {
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/audio/sentiment_analysis/103.wav",
       "text":"One word frees us of all the weight and pain in life. That word is love",
       "detail":{
         "Person": "Wife",
@@ -58,6 +62,7 @@
 {
     "id": 91805741,
     "data": {
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/audio/sentiment_analysis/104.wav",
       "text":"Now I need to ponder my existence and ask myself if I am truly real",
       "detail":{
         "Person": "Husband",
@@ -72,6 +77,7 @@
 {
   "id": 910517412,
   "data": {
+    "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/audio/sentiment_analysis/105.wav",
     "text":"I guess that is what saying good-bye is always like -like jumping off an edge. The worst part is making the choice to do it. Once you are in the air, there is nothing you can do but let go.",
     "detail":{
       "Person": "Spouse",
@@ -86,6 +92,7 @@
 {
     "id": 910517412,
     "data": {
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/audio/sentiment_analysis/106.wav",
       "text":"To love deeply in one direction makes us more loving in all others.",
       "detail":{
         "Person": "Mom",
@@ -100,6 +107,7 @@
 {
     "id": 918057412,
     "data": {
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/audio/sentiment_analysis/107.wav",
       "text":"Whenever he saw a red flag warning at the beach he grabbed his surfboard.",
       "detail":{
         "Person": "Husband",
@@ -114,6 +122,7 @@
 {
     "id": 18051741,
     "data": {
+      "audio_url": "https://raw.githubusercontent.com/lawesworks/public_data/main/audio/sentiment_analysis/108.wav",
       "text":"He had a hidden stash underneath the floorboards in the back room of the house",
       "detail":{
         "Person": "Father",
